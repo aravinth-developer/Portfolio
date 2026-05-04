@@ -16,8 +16,6 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 
 ## 📂 Projects
 - Project 1
-- Project 2
-- Project 3
 
 ## 🌐 Live Demo
 👉https://github.com/aravinth-developer/Portfolio
