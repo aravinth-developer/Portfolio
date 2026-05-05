@@ -18,7 +18,7 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 - Project 1
 
 ## 🌐 Live Demo
-👉https://github.com/aravinth-developer/Portfolio
+👉https://aravinth-developer.github.io/Portfolio/
 
 ## 📬 Contact
 - Email: srinivasaaravinth456@gmail.com
